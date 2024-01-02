@@ -2,7 +2,7 @@ import java.io.*;
 import java.math.BigInteger;
 import java.util.*;
 import java.util.regex.*;
-public class day6 {
+public class day06 {
 	public static void main(String[] args) throws IOException {
 		part1();
 		part2();

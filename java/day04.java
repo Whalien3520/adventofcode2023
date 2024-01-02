@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
-public class day4 {
+public class day04 {
 	public static void main(String[] args) throws IOException {
 		part1();
 		part2();
